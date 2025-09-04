@@ -25,7 +25,7 @@ may the force be with you
 
 [English Version](#english-version) | [🇹🇭 ภาษาไทย](#ภาษาไทย)
 
-**เครดิต**[picoCTF -Unpackme](https://play.picoctf.org/practice/challenge/313?difficulty=2&page=1&retired=0&search=unpackme&solved=0)
+**เครดิต:**[picoCTF -Unpackme](https://play.picoctf.org/practice/challenge/313?difficulty=2&page=1&retired=0&search=unpackme&solved=0)
 
 <img width="958" height="453" alt="Screenshot 2025-09-03 201321" src="https://github.com/user-attachments/assets/af062a25-9037-49c2-8556-27ef9e9d1f56" />
 
