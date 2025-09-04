@@ -23,6 +23,8 @@ may the force be with you
 
 ## ภาษาไทย
 
+[English Version](#english-version) | [🇹🇭 ภาษาไทย](#ภาษาไทย)
+
 **เครดิต:**[picoCTF -Invisible WORDs](https://play.picoctf.org/practice/challenge/354?difficulty=3&page=1&search=Invisible%20WORDs)
 
 <img width="624" height="657" alt="Screenshot 2025-09-04 100654" src="https://github.com/user-attachments/assets/40431e81-8751-4b0c-bfb9-570568777d9d" />
