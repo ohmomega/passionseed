@@ -19,7 +19,10 @@ This challenge is called Invisible WORDs. The idea is that there is hidden text 
 ## Summary command
 
 ---
+
 may the force be with you
+
+---
 
 ## ภาษาไทย
 
@@ -43,4 +46,5 @@ may the force be with you
 
 ขอพลังจงสถิตอยู่กับท่าน
 
+---
 
